@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|c:\\users\\ilkin\\source\\repos\\constructionapi\\constructionapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|solutionrelative:constructionapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|c:\\users\\ilkin\\source\\repos\\constructionapi\\constructionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|solutionrelative:constructionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|c:\\users\\ilkin\\source\\repos\\constructionapi\\constructionapi\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|solutionrelative:constructionapi\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|c:\\users\\ilkin\\source\\repos\\constructionapi\\constructionapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|solutionrelative:constructionapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 562,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "ConstructionAPI\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Services\\TokenService.cs",
+              "RelativeToolTip": "ConstructionAPI\\Services\\TokenService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:19:23.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ConstructionAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Program.cs",
+              "RelativeToolTip": "ConstructionAPI\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:41:09.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Models\\Shop.cs",
+              "RelativeDocumentMoniker": "ConstructionAPI\\Models\\Shop.cs",
+              "ToolTip": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Models\\Shop.cs",
+              "RelativeToolTip": "ConstructionAPI\\Models\\Shop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:16:41.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ConstructionAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Models\\User.cs",
+              "RelativeToolTip": "ConstructionAPI\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:16:47.737Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 445,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 278,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
