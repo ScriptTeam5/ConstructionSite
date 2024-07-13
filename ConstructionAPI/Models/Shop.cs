@@ -9,8 +9,9 @@ namespace ConstructionAPI.Models
         public string City { get; set; }
         public string PhoneNumber { get; set; }
         public string Email { get; set; }
+        public string ImageUrl { get; set; }
 
-        public string UserId { get; set; }
+        public int UserId { get; set; }
         public User User { get; set; }
 
         public List<Product> Products { get; set; }

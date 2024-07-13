@@ -29,6 +29,17 @@ namespace ConstructionAPI.DAL
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Favorite>().HasKey(f => new { f.UserId, f.ProductId });
+
+            modelBuilder.Entity<Favorite>()
+                .HasOne(f => f.User)
+                .WithMany(u => u.Favorites)
+                .HasForeignKey(f => f.UserId);
+
+            modelBuilder.Entity<Favorite>()
+                .HasOne(f => f.Product)
+                .WithMany(p => p.Favorites)
+                .HasForeignKey(f => f.ProductId);
             modelBuilder.Entity<Role>().HasData(
                 new Role { Id = 1, Name = "Admin", NormalizedName = "ADMIN" },
                   new Role { Id = 2, Name = "User", NormalizedName = "USER" }

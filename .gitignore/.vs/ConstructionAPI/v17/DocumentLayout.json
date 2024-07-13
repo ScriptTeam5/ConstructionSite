@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|c:\\users\\ilkin\\source\\repos\\constructionapi\\constructionapi\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|solutionrelative:constructionapi\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|c:\\users\\ilkin\\source\\repos\\constructionapi\\constructionapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|solutionrelative:constructionapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|c:\\users\\ilkin\\source\\repos\\constructionapi\\constructionapi\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|solutionrelative:constructionapi\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|c:\\users\\ilkin\\source\\repos\\constructionapi\\constructionapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|solutionrelative:constructionapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|c:\\users\\ilkin\\source\\repos\\constructionapi\\constructionapi\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|solutionrelative:constructionapi\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|c:\\users\\ilkin\\source\\repos\\constructionapi\\constructionapi\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|solutionrelative:constructionapi\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|c:\\users\\ilkin\\source\\repos\\constructionapi\\constructionapi\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|solutionrelative:constructionapi\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|c:\\users\\ilkin\\source\\repos\\constructionapi\\constructionapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|solutionrelative:constructionapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|c:\\users\\ilkin\\source\\repos\\constructionapi\\constructionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73490050-A57B-4CAD-A707-29F22EB2E91E}|ConstructionAPI\\ConstructionAPI.csproj|solutionrelative:constructionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 562,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\DTO\\CreateProductDTO.cs",
+              "RelativeDocumentMoniker": "ConstructionAPI\\DTO\\CreateProductDTO.cs",
+              "ToolTip": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\DTO\\CreateProductDTO.cs",
+              "RelativeToolTip": "ConstructionAPI\\DTO\\CreateProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:05:12.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ConstructionAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ConstructionAPI\\Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:03:50.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Like.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Models\\Like.cs",
+              "RelativeDocumentMoniker": "ConstructionAPI\\Models\\Like.cs",
+              "ToolTip": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Models\\Like.cs",
+              "RelativeToolTip": "ConstructionAPI\\Models\\Like.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:00:48.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Models\\Favorite.cs",
+              "RelativeDocumentMoniker": "ConstructionAPI\\Models\\Favorite.cs",
+              "ToolTip": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Models\\Favorite.cs",
+              "RelativeToolTip": "ConstructionAPI\\Models\\Favorite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:58:22.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ConstructionAPI\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Models\\Category.cs",
+              "RelativeToolTip": "ConstructionAPI\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:51:10.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ConstructionAPI\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "ConstructionAPI\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:39:15.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ConstructionAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Program.cs",
+              "RelativeToolTip": "ConstructionAPI\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:41:09.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Models\\Shop.cs",
+              "RelativeDocumentMoniker": "ConstructionAPI\\Models\\Shop.cs",
+              "ToolTip": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Models\\Shop.cs",
+              "RelativeToolTip": "ConstructionAPI\\Models\\Shop.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:16:41.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ConstructionAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\Models\\User.cs",
+              "RelativeToolTip": "ConstructionAPI\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:16:47.737Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 445,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 278,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

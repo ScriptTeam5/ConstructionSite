@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eItV24SGBKk=",
+  "dgSpecHash": "WJW6EiUZa+8=",
   "success": true,
   "projectFilePath": "C:\\Users\\ilkin\\source\\repos\\ConstructionAPI\\ConstructionAPI\\ConstructionAPI.csproj",
   "expectedPackageFiles": [
@@ -46,6 +46,7 @@
     "C:\\Users\\ilkin\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.20\\microsoft.entityframeworkcore.relational.7.0.20.nupkg.sha512",
     "C:\\Users\\ilkin\\.nuget\\packages\\microsoft.entityframeworkcore.relational.design\\1.1.6\\microsoft.entityframeworkcore.relational.design.1.1.6.nupkg.sha512",
     "C:\\Users\\ilkin\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.20\\microsoft.entityframeworkcore.sqlserver.7.0.20.nupkg.sha512",
+    "C:\\Users\\ilkin\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.20\\microsoft.entityframeworkcore.tools.7.0.20.nupkg.sha512",
     "C:\\Users\\ilkin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\ilkin\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\ilkin\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
